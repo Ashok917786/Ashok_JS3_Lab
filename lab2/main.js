@@ -1,6 +1,6 @@
 //Information about server and public key
 const api = {
-    key: "10ef347263e601c4fd39391844d260d3",  // using the default key which is there in https://home.openweathermap.org/api_keys
+    key: "06b730c5806ec556db52144df00655d6",  // using my API key which is generated in https://home.openweathermap.org/api_keys
     base: "https://api.openweathermap.org/data/2.5/"
   }
   
